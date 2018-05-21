@@ -1,2 +1,5 @@
-console.log('Hello World!');
-console.log('Angelo C. de Mello');
+function imprimiSoma(a, b) {
+	console.log(a + b);
+}
+
+imprimiSoma(1, 2);
